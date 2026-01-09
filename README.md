@@ -71,4 +71,4 @@ Supported pricing and discount strategy evaluation by highlighting the trade-off
 
 Helped identify high-value customers and products, supporting retention and revenue optimization efforts.
 
-Demos:
+Demos: https://github.com/harshita010/Ecommerce_sales-dashboard/blob/main/Dashboard.png
